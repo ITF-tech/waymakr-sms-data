@@ -1,0 +1,448 @@
+{
+ "last_updated": "2026-10-18",
+ "source": "WayMakr live database (Lovable Cloud) \u2014 curated essentials snapshot",
+ "schema": {
+  "n": "name",
+  "a": "address",
+  "b": "borough",
+  "z": "zip",
+  "p": "phone",
+  "c": "category",
+  "s": "source"
+ },
+ "record_count": 48,
+ "programs": [
+  {
+   "n": "988 Suicide & Crisis Lifeline",
+   "a": "",
+   "b": "All",
+   "z": "",
+   "p": "988",
+   "c": "Crisis",
+   "s": "Federal"
+  },
+  {
+   "n": "NYC HOPE (domestic violence)",
+   "a": "",
+   "b": "All",
+   "z": "",
+   "p": "1-800-621-4673",
+   "c": "Crisis",
+   "s": "NYC ENDGBV"
+  },
+  {
+   "n": "NYC 311",
+   "a": "",
+   "b": "All",
+   "z": "",
+   "p": "311",
+   "c": "City Services",
+   "s": "NYC"
+  },
+  {
+   "n": "Emergency",
+   "a": "",
+   "b": "All",
+   "z": "",
+   "p": "911",
+   "c": "Crisis",
+   "s": "City"
+  },
+  {
+   "n": "HRA Benefits Access Center Fordham",
+   "a": "2541-2549 Bainbridge Avenue, Bronx",
+   "b": "Bronx",
+   "z": "10458",
+   "p": "929-252-3331 | 929-2",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "HRA Benefits Access Center East New York",
+   "a": "2400 Fulton St., 1st Fl., Brooklyn",
+   "b": "Brooklyn",
+   "z": "11233",
+   "p": "718-636-2495 | 929-2",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "Family Service Call Center",
+   "a": "165-08 88th Avenue, 5th Fl., Queens",
+   "b": "Family Service Call Center",
+   "z": "11432",
+   "p": "718-752-3937 | 718-8",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "Family Services Call Center, Bronx Satellite",
+   "a": "847 Barretto Street, Bronx",
+   "b": "Family Services Call Centers",
+   "z": "10474",
+   "p": "929-252-4269 | 718-8",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "HRA Benefits Access Center East End",
+   "a": "2322 Third Avenue, 1st Fl., New York",
+   "b": "Manhattan",
+   "z": "10035",
+   "p": "212-274-4951",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "HRA Benefits Access Center Jamaica",
+   "a": "165-08 88th Avenue, 1st Fl., Queens",
+   "b": "Queens",
+   "z": "11432",
+   "p": "718-523-2146 | 718-8",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "Residential Treatment Service Center",
+   "a": "109 E. 16th Street, New York",
+   "b": "Residential Treatment Service Center",
+   "z": "10003",
+   "p": "929-252-5910",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "Special Project Center",
+   "a": "109 E 16th Street, 6th Fl., New York",
+   "b": "Special Project Center",
+   "z": "10003",
+   "p": "929-252-5775 | 929-2",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "Michael J. Handy Veterans' Service Center",
+   "a": "25 Chapel Street, 6th Fl., Room 606, Brooklyn",
+   "b": "Specialized Application & Service Centers",
+   "z": "11201",
+   "p": "718-222-2430",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "HRA Benefits Access Center Richmond",
+   "a": "201 Bay Street, 1st Fl., Staten Island",
+   "b": "Staten Island",
+   "z": "10301",
+   "p": "929-221-7915 | 929-2",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "Transportation Unit",
+   "a": "25 Chapel Street, 6th Fl., Brooklyn",
+   "b": "Transportation Unit",
+   "z": "11201",
+   "p": "718-473-8310",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "HRA Benefits Access Center Hunts Point",
+   "a": "847 Barretto Street, Bronx",
+   "b": "Bronx",
+   "z": "10474",
+   "p": "929-252-4352 | 929-2",
+   "c": "Food",
+   "s": "Human Resources Administration (HRA)"
+  },
+  {
+   "n": "Bronxworks",
+   "a": "630 Jackson Avenue, 2nd Fl, Bronx",
+   "b": "Bronx",
+   "z": "10455",
+   "p": "347-704-0001",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Riseboro Community Partnership",
+   "a": "145 East 98st 2nd Fl, Brooklyn",
+   "b": "Brooklyn",
+   "z": "11212",
+   "p": "917-819-3200",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Sus",
+   "a": "516 West 181st Street, 4th Fl, Manhattan",
+   "b": "Manhattan",
+   "z": "10033",
+   "p": "917-492-1019",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Ccns",
+   "a": "161-10 Jamaica Ave, 5th Fl, Jamaica, Queens",
+   "b": "Queens",
+   "z": "11432",
+   "p": "718-674-1000",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Camba",
+   "a": "120 Stuyvesant Place, 4th Fl , Suite 413, Staten Is",
+   "b": "Staten Is",
+   "z": "10301",
+   "p": "718-282-6473",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Help I",
+   "a": "1860 East Tremont Ave, 1st Fl, Bronx",
+   "b": "Bronx",
+   "z": "10460",
+   "p": "718-299-8473",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Camba I",
+   "a": "1117 Eastern Parkway, 3rd Fl, Brooklyn",
+   "b": "Brooklyn",
+   "z": "11213",
+   "p": "718-622-7323",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Help Ii",
+   "a": "815 Burke Ave, 1st Fl, Bronx",
+   "b": "Bronx",
+   "z": "10467",
+   "p": "646-905-5289",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Camba Ii",
+   "a": "2244 Church Ave, 4th Fl, Brooklyn",
+   "b": "Brooklyn",
+   "z": "11226",
+   "p": "718-408-5766",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Archny I",
+   "a": "2155 Blackrock Ave, 1st Fl, Bronx",
+   "b": "Bronx",
+   "z": "10472",
+   "p": "718-414-1050",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Help Iii",
+   "a": "1780 Grand Concourse, Lev 1, Bronx",
+   "b": "Bronx",
+   "z": "10457",
+   "p": "347-226-4540",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Archny Ii",
+   "a": "4377 Bronx Boulevard, 3rd Fl, Bronx",
+   "b": "Bronx",
+   "z": "10466",
+   "p": "347-947-3920",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Archny Ii",
+   "a": "4377 Bronx Boulevard, 3rd Fl, Bronx",
+   "b": "Bronx",
+   "z": "10466",
+   "p": "347-947-3920",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Ccns",
+   "a": "560 Livonia Ave, 1st Fl, Brooklyn",
+   "b": "Brooklyn",
+   "z": "11207",
+   "p": "718-408-7181",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Sus",
+   "a": "2322 3rd Ave, 3rd Fl, Manhattan",
+   "b": "Manhattan",
+   "z": "10035",
+   "p": "917-492-1019",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Camba",
+   "a": "209 Bay Street, 1st Fl, Staten Is",
+   "b": "Staten Is",
+   "z": "10301",
+   "p": "718-226-0496",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Help Ii",
+   "a": "815 Burke Ave, 1st Fl, Bronx",
+   "b": "Bronx",
+   "z": "10467",
+   "p": "646-905-5289",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Camba Ii",
+   "a": "2244 Church Ave, 4th Fl, Brooklyn",
+   "b": "Brooklyn",
+   "z": "11226",
+   "p": "718-408-5766",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Archny I",
+   "a": "890 Garrison Ave, Ll, Bronx",
+   "b": "Bronx",
+   "z": "10474",
+   "p": "929-259-9430",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Riseboro Community Partnership",
+   "a": "145 East 98st 2nd Fl, Brooklyn",
+   "b": "Brooklyn",
+   "z": "11212",
+   "p": "917-819-3200",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Bronxworks",
+   "a": "630 Jackson Avenue, 2nd Fl, Bronx",
+   "b": "Bronx",
+   "z": "10455",
+   "p": "347-704-0001",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Camba I",
+   "a": "1958 Fulton Street, 2nd Fl, Brooklyn",
+   "b": "Brooklyn",
+   "z": "11233",
+   "p": "718-408-5756 x37100",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Help Iii",
+   "a": "1780 Grand Concourse, Lev 1, Bronx",
+   "b": "Bronx",
+   "z": "10457",
+   "p": "347-226-4540",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Help I",
+   "a": "1860 East Tremont Ave, 1st Fl, Bronx",
+   "b": "Bronx",
+   "z": "10460",
+   "p": "718-299-8473",
+   "c": "Housing",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
+   "n": "Inwood Health Center",
+   "a": "1543-1545 Inwood Avenue",
+   "b": "Bronx",
+   "z": "10452-2001",
+   "p": "718-681-8700",
+   "c": "Mental Health",
+   "s": "NYS Office of Mental Health"
+  },
+  {
+   "n": "FSNNY CM Health Home+ Bushwick",
+   "a": "1420 Bushwick Ave",
+   "b": "Brooklyn",
+   "z": "11207",
+   "p": "(718)455-6010x6134",
+   "c": "Mental Health",
+   "s": "NYS Office of Mental Health"
+  },
+  {
+   "n": "Common Ground SafeOpt ST (Staten Island)",
+   "a": "505 8th Avenue",
+   "b": "Manhattan",
+   "z": "10018",
+   "p": "212-389-9300",
+   "c": "Mental Health",
+   "s": "NYS Office of Mental Health"
+  },
+  {
+   "n": "FSNNY CM Health Home+ Bronx",
+   "a": "1106 Rev James A. Polite Ave",
+   "b": "Bronx",
+   "z": "10459",
+   "p": "718-975-7281",
+   "c": "Mental Health",
+   "s": "NYS Office of Mental Health"
+  },
+  {
+   "n": "Adult CORE Psychosicial Rehabilitation",
+   "a": "1420 Bushwick Ave.",
+   "b": "Brooklyn",
+   "z": "11207",
+   "p": "347-770-9911",
+   "c": "Mental Health",
+   "s": "NYS Office of Mental Health"
+  },
+  {
+   "n": "Suicide Prevention",
+   "a": "109 East 115th Street",
+   "b": "Manhattan",
+   "z": "10029",
+   "p": "917-485-7280",
+   "c": "Mental Health",
+   "s": "NYS Office of Mental Health"
+  },
+  {
+   "n": "SMH Care Management - Bronx",
+   "a": "116-06 Myrtle Ave",
+   "b": "Bronx",
+   "z": "11418",
+   "p": "718-850-7099",
+   "c": "Mental Health",
+   "s": "NYS Office of Mental Health"
+  },
+  {
+   "n": "Brooklyn Children's Mobile Crisis",
+   "a": "1715 East 13th Street",
+   "b": "Brooklyn",
+   "z": "11229",
+   "p": "718-840-4058",
+   "c": "Mental Health",
+   "s": "NYS Office of Mental Health"
+  }
+ ]
+}
