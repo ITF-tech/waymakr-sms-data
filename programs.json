@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-19",
+ "last_updated": "2026-10-26",
  "source": "WayMakr live database (Lovable Cloud) — curated essentials snapshot",
  "schema": {
   "n": "name",
@@ -50,7 +50,7 @@
   },
   {
    "n": "HRA Benefits Access Center Fordham",
-   "a": "2541-2549 Bainbridge Avenue",
+   "a": "2541-2549 Bainbridge Avenue, Bronx",
    "b": "Bronx",
    "z": "10458",
    "p": "929-252-3331",
@@ -59,7 +59,7 @@
   },
   {
    "n": "HRA Benefits Access Center Hunts Point",
-   "a": "847 Barretto Street",
+   "a": "847 Barretto Street, Bronx",
    "b": "Bronx",
    "z": "10474",
    "p": "929-252-4352",
@@ -68,7 +68,7 @@
   },
   {
    "n": "HRA Benefits Access Center Rider",
-   "a": "300 Canal Place",
+   "a": "300 Canal Place, Bronx",
    "b": "Bronx",
    "z": "10451",
    "p": "718-742-3924",
@@ -77,7 +77,7 @@
   },
   {
    "n": "HRA Benefits Access Center East New York",
-   "a": "2400 Fulton St., 1st Fl.",
+   "a": "2400 Fulton St., 1st Fl., Brooklyn",
    "b": "Brooklyn",
    "z": "11233",
    "p": "718-636-2495",
@@ -86,7 +86,7 @@
   },
   {
    "n": "HRA Benefits Access Center Coney Island",
-   "a": "1912 Mermaid Ave, 1st Fl.",
+   "a": "1912 Mermaid Ave, 1st Fl., Brooklyn",
    "b": "Brooklyn",
    "z": "11224",
    "p": "718-333-3100",
@@ -95,7 +95,7 @@
   },
   {
    "n": "HRA Benefits Access Center Clinton Hill",
-   "a": "495 Clermont Ave, 1st Fl.",
+   "a": "495 Clermont Ave, 1st Fl., Brooklyn",
    "b": "Brooklyn",
    "z": "11238",
    "p": "929-221-2809",
@@ -104,7 +104,7 @@
   },
   {
    "n": "HRA Benefits Access Center East End",
-   "a": "2322 Third Avenue, 1st Fl.",
+   "a": "2322 Third Avenue, 1st Fl., New York",
    "b": "Manhattan",
    "z": "10035",
    "p": "212-274-4951",
@@ -113,7 +113,7 @@
   },
   {
    "n": "HRA Benefits Access Center St. Nicholas",
-   "a": "132 W. 125th Street, 4th Fl.",
+   "a": "132 W. 125th Street. 4th Fl., New York",
    "b": "Manhattan",
    "z": "10027",
    "p": "212-274-5162",
@@ -121,17 +121,8 @@
    "s": "Human Resources Administration (HRA)"
   },
   {
-   "n": "HRA Benefits Access Center Dyckman",
-   "a": "4055 10th Avenue, 1st Fl.",
-   "b": "Manhattan",
-   "z": "10034",
-   "p": "212-331-5110",
-   "c": "Food",
-   "s": "Human Resources Administration (HRA)"
-  },
-  {
    "n": "HRA Benefits Access Center Jamaica",
-   "a": "165-08 88th Avenue, 1st Fl.",
+   "a": "165-08 88th Avenue, 1st Fl., Queens",
    "b": "Queens",
    "z": "11432",
    "p": "718-523-2146",
@@ -140,7 +131,7 @@
   },
   {
    "n": "HRA Benefits Access Center Queens",
-   "a": "32-20 Northern Blvd, 4th Floor",
+   "a": "32-20 Northern Blvd, 4th Floor, Queens",
    "b": "Queens",
    "z": "11101",
    "p": "718-784-5919",
@@ -149,7 +140,7 @@
   },
   {
    "n": "HRA Benefits Access Center Rockaway",
-   "a": "219 Beach 59th Street",
+   "a": "219 Beach 59th Street, Queens",
    "b": "Queens",
    "z": "11692",
    "p": "718-637-2144",
@@ -158,7 +149,7 @@
   },
   {
    "n": "HRA Benefits Access Center Richmond",
-   "a": "201 Bay Street, 1st Fl.",
+   "a": "201 Bay Street, 1st Fl., Staten Island",
    "b": "Staten Island",
    "z": "10301",
    "p": "929-221-7915",
@@ -167,7 +158,7 @@
   },
   {
    "n": "Bronxworks",
-   "a": "630 Jackson Avenue, 2nd Fl",
+   "a": "630 Jackson Avenue, 2nd Fl, Bronx",
    "b": "Bronx",
    "z": "10455",
    "p": "347-704-0001",
@@ -176,7 +167,7 @@
   },
   {
    "n": "Help I",
-   "a": "1860 East Tremont Ave, 1st Fl",
+   "a": "1860 East Tremont Ave, 1st Fl, Bronx",
    "b": "Bronx",
    "z": "10460",
    "p": "718-299-8473",
@@ -185,7 +176,7 @@
   },
   {
    "n": "Help Ii",
-   "a": "815 Burke Ave, 1st Fl",
+   "a": "815 Burke Ave, 1st Fl, Bronx",
    "b": "Bronx",
    "z": "10467",
    "p": "646-905-5289",
@@ -194,7 +185,7 @@
   },
   {
    "n": "Archny I",
-   "a": "2155 Blackrock Ave, 1st Fl",
+   "a": "2155 Blackrock Ave, 1st Fl, Bronx",
    "b": "Bronx",
    "z": "10472",
    "p": "718-414-1050",
@@ -203,7 +194,7 @@
   },
   {
    "n": "Help Iii",
-   "a": "1780 Grand Concourse, Lev 1",
+   "a": "1780 Grand Concourse, Lev 1, Bronx",
    "b": "Bronx",
    "z": "10457",
    "p": "347-226-4540",
@@ -211,8 +202,17 @@
    "s": "Department of Homeless Services (DHS)"
   },
   {
+   "n": "Archny Ii",
+   "a": "4377 Bronx Boulevard, 3rd Fl, Bronx",
+   "b": "Bronx",
+   "z": "10466",
+   "p": "347-947-3920",
+   "c": "Emergency Shelter",
+   "s": "Department of Homeless Services (DHS)"
+  },
+  {
    "n": "Riseboro Community Partnership",
-   "a": "145 East 98st 2nd Fl",
+   "a": "145 East 98st 2nd Fl, Brooklyn",
    "b": "Brooklyn",
    "z": "11212",
    "p": "917-819-3200",
@@ -221,7 +221,7 @@
   },
   {
    "n": "Camba I",
-   "a": "1117 Eastern Parkway, 3rd Fl",
+   "a": "1117 Eastern Parkway, 3rd Fl, Brooklyn",
    "b": "Brooklyn",
    "z": "11213",
    "p": "718-622-7323",
@@ -230,7 +230,7 @@
   },
   {
    "n": "Camba Ii",
-   "a": "2244 Church Ave, 4th Fl",
+   "a": "2244 Church Ave, 4th Fl, Brooklyn",
    "b": "Brooklyn",
    "z": "11226",
    "p": "718-408-5766",
@@ -239,7 +239,7 @@
   },
   {
    "n": "Sus",
-   "a": "516 West 181st Street, 4th Fl",
+   "a": "516 West 181st Street, 4th Fl, Manhattan",
    "b": "Manhattan",
    "z": "10033",
    "p": "917-492-1019",
@@ -248,7 +248,7 @@
   },
   {
    "n": "Ccns",
-   "a": "161-10 Jamaica Ave, 5th Fl, Jamaica",
+   "a": "161-10 Jamaica Ave, 5th Fl, Jamaica, Queens",
    "b": "Queens",
    "z": "11432",
    "p": "718-674-1000",
@@ -257,34 +257,34 @@
   },
   {
    "n": "Camba",
-   "a": "209 Bay Street, 1st Fl",
+   "a": "120 Stuyvesant Place, 4th Fl , Suite 413, Staten Is",
    "b": "Staten Island",
    "z": "10301",
-   "p": "718-226-0496",
+   "p": "718-282-6473",
    "c": "Emergency Shelter",
    "s": "Department of Homeless Services (DHS)"
   },
   {
    "n": "Archny Ii",
-   "a": "4377 Bronx Boulevard, 3rd Fl",
+   "a": "2901 White Plains Road, Bronx",
    "b": "Bronx",
-   "z": "10466",
-   "p": "347-947-3920",
+   "z": "10467",
+   "p": "347-913-4694",
    "c": "Housing",
    "s": "Department of Homeless Services (DHS)"
   },
   {
-   "n": "Help Iii",
-   "a": "1780 Grand Concourse, Lev 1",
+   "n": "Help Ii",
+   "a": "815 Burke Ave, 1st Fl, Bronx",
    "b": "Bronx",
-   "z": "10457",
-   "p": "347-226-4540",
+   "z": "10467",
+   "p": "646-905-5289",
    "c": "Housing",
    "s": "Department of Homeless Services (DHS)"
   },
   {
    "n": "Bronxworks",
-   "a": "1130 Grand Concourse, 3rd Fl",
+   "a": "1130 Grand Concourse, 3rd Fl, Bronx",
    "b": "Bronx",
    "z": "10456",
    "p": "718-508-3107",
@@ -293,7 +293,7 @@
   },
   {
    "n": "Archny I",
-   "a": "890 Garrison Ave, Ll",
+   "a": "890 Garrison Ave, Ll, Bronx",
    "b": "Bronx",
    "z": "10474",
    "p": "929-259-9430",
@@ -301,17 +301,17 @@
    "s": "Department of Homeless Services (DHS)"
   },
   {
-   "n": "Help Ii",
-   "a": "815 Burke Ave, 1st Fl",
+   "n": "Help Iii",
+   "a": "1780 Grand Concourse, Lev 1, Bronx",
    "b": "Bronx",
-   "z": "10467",
-   "p": "646-905-5289",
+   "z": "10457",
+   "p": "347-226-4540",
    "c": "Housing",
    "s": "Department of Homeless Services (DHS)"
   },
   {
    "n": "Help I",
-   "a": "1860 East Tremont Ave, 1st Fl",
+   "a": "1860 East Tremont Ave, 1st Fl, Bronx",
    "b": "Bronx",
    "z": "10460",
    "p": "718-299-8473",
@@ -320,7 +320,7 @@
   },
   {
    "n": "Camba I",
-   "a": "1958 Fulton Street, 2nd Fl",
+   "a": "1958 Fulton Street, 2nd Fl, Brooklyn",
    "b": "Brooklyn",
    "z": "11233",
    "p": "718-408-5756 x37100",
@@ -329,7 +329,7 @@
   },
   {
    "n": "Riseboro Community Partnership",
-   "a": "1875 Broadway, 1st Fl",
+   "a": "1875 Broadway, 1st Fl, Brooklyn",
    "b": "Brooklyn",
    "z": "11207",
    "p": "929-297-0201",
@@ -338,7 +338,7 @@
   },
   {
    "n": "Camba Ii",
-   "a": "2244 Church Ave, 4th Fl",
+   "a": "2244 Church Ave, 4th Fl, Brooklyn",
    "b": "Brooklyn",
    "z": "11226",
    "p": "718-408-5766",
@@ -347,7 +347,7 @@
   },
   {
    "n": "Sus",
-   "a": "2322 3rd Ave, 3rd Fl",
+   "a": "2322 3rd Ave, 3rd Fl, Manhattan",
    "b": "Manhattan",
    "z": "10035",
    "p": "917-492-1019",
@@ -356,7 +356,7 @@
   },
   {
    "n": "Ccns",
-   "a": "1847 Mott Ave, Far Rockaway",
+   "a": "1847 Mott Ave, Far Rockaway, Queens",
    "b": "Queens",
    "z": "11691",
    "p": "718-647-1015",
@@ -365,10 +365,10 @@
   },
   {
    "n": "Camba",
-   "a": "120 Stuyvesant Place, 4th Fl, Suite 413",
+   "a": "209 Bay Street, 1st Fl, Staten Is",
    "b": "Staten Island",
    "z": "10301",
-   "p": "718-282-6473",
+   "p": "718-226-0496",
    "c": "Housing",
    "s": "Department of Homeless Services (DHS)"
   },
@@ -382,11 +382,38 @@
    "s": "NYS Office of Mental Health"
   },
   {
-   "n": "ACT Bedford",
-   "a": "1669 Bedford Avenue",
+   "n": "Riverdale Mental Health Center",
+   "a": "521 W. 239th Street",
+   "b": "Bronx",
+   "z": "10463-1205",
+   "p": "718-796-5300",
+   "c": "Mental Health",
+   "s": "NYS Office of Mental Health"
+  },
+  {
+   "n": "Montefiore Medical Center",
+   "a": "111 E 210th Street",
+   "b": "Bronx",
+   "z": "10467-2401",
+   "p": "718-920-6215",
+   "c": "Mental Health",
+   "s": "NYS Office of Mental Health"
+  },
+  {
+   "n": "Canarsie Clinic",
+   "a": "9801 Foster Avenue #441",
    "b": "Brooklyn",
-   "z": "11225-2009",
-   "p": "347-426-7703",
+   "z": "11236-2113",
+   "p": "718-257-7780",
+   "c": "Mental Health",
+   "s": "NYS Office of Mental Health"
+  },
+  {
+   "n": "Cumberland Mental Health Clinic",
+   "a": "100 N. Portland Avenue",
+   "b": "Brooklyn",
+   "z": "11205-2005",
+   "p": "718-260-7500",
    "c": "Mental Health",
    "s": "NYS Office of Mental Health"
   },
@@ -400,47 +427,20 @@
    "s": "NYS Office of Mental Health"
   },
   {
-   "n": "Bridge Clinic Treatment Program",
-   "a": "248 W. 108th Street",
+   "n": "Audubon Adult Outpatient Clinic",
+   "a": "513 W. 166th Street",
    "b": "Manhattan",
-   "z": "10025-2956",
-   "p": "212-663-3001",
+   "z": "10032-4207",
+   "p": "212-928-8300",
    "c": "Mental Health",
    "s": "NYS Office of Mental Health"
   },
   {
-   "n": "Callen-Lorde Integrated Health Center",
-   "a": "356 West 18th Street",
+   "n": "Manhattan PC 125th Street Clinic",
+   "a": "163 W 125th St",
    "b": "Manhattan",
-   "z": "10011-4401",
-   "p": "212-271-7206",
-   "c": "Mental Health",
-   "s": "NYS Office of Mental Health"
-  },
-  {
-   "n": "Elmhurst Hospital Mental Health Clinic",
-   "a": "79-01 Broadway",
-   "b": "Queens",
-   "z": "11373",
-   "p": "718-334-3999",
-   "c": "Mental Health",
-   "s": "NYS Office of Mental Health"
-  },
-  {
-   "n": "Jamaica Community Mental Health Clinic",
-   "a": "91-14 Merrick Boulevard",
-   "b": "Queens",
-   "z": "11432-5363",
-   "p": "718-206-3440",
-   "c": "Mental Health",
-   "s": "NYS Office of Mental Health"
-  },
-  {
-   "n": "Community Respite Bed",
-   "a": "1765 South Ave",
-   "b": "Staten Island",
-   "z": "10314",
-   "p": "718-982-9633",
+   "z": "10027-4436",
+   "p": "212-961-8700",
    "c": "Mental Health",
    "s": "NYS Office of Mental Health"
   }
